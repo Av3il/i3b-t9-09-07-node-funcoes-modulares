@@ -4,3 +4,4 @@ funcao1();
 funcao2();
 funcao3();
 console.log(soma(52,36));
+
